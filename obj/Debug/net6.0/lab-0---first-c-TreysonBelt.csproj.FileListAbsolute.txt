@@ -1,0 +1,15 @@
+C:\Users\treys\my-code-dir\lab-0---first-c-TreysonBelt\bin\Debug\net6.0\lab-0---first-c-TreysonBelt.exe
+C:\Users\treys\my-code-dir\lab-0---first-c-TreysonBelt\bin\Debug\net6.0\lab-0---first-c-TreysonBelt.deps.json
+C:\Users\treys\my-code-dir\lab-0---first-c-TreysonBelt\bin\Debug\net6.0\lab-0---first-c-TreysonBelt.runtimeconfig.json
+C:\Users\treys\my-code-dir\lab-0---first-c-TreysonBelt\bin\Debug\net6.0\lab-0---first-c-TreysonBelt.dll
+C:\Users\treys\my-code-dir\lab-0---first-c-TreysonBelt\bin\Debug\net6.0\lab-0---first-c-TreysonBelt.pdb
+C:\Users\treys\my-code-dir\lab-0---first-c-TreysonBelt\obj\Debug\net6.0\lab-0---first-c-TreysonBelt.csproj.AssemblyReference.cache
+C:\Users\treys\my-code-dir\lab-0---first-c-TreysonBelt\obj\Debug\net6.0\lab-0---first-c-TreysonBelt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\treys\my-code-dir\lab-0---first-c-TreysonBelt\obj\Debug\net6.0\lab-0---first-c-TreysonBelt.AssemblyInfoInputs.cache
+C:\Users\treys\my-code-dir\lab-0---first-c-TreysonBelt\obj\Debug\net6.0\lab-0---first-c-TreysonBelt.AssemblyInfo.cs
+C:\Users\treys\my-code-dir\lab-0---first-c-TreysonBelt\obj\Debug\net6.0\lab-0---first-c-TreysonBelt.csproj.CoreCompileInputs.cache
+C:\Users\treys\my-code-dir\lab-0---first-c-TreysonBelt\obj\Debug\net6.0\lab-0---first-c-TreysonBelt.dll
+C:\Users\treys\my-code-dir\lab-0---first-c-TreysonBelt\obj\Debug\net6.0\refint\lab-0---first-c-TreysonBelt.dll
+C:\Users\treys\my-code-dir\lab-0---first-c-TreysonBelt\obj\Debug\net6.0\lab-0---first-c-TreysonBelt.pdb
+C:\Users\treys\my-code-dir\lab-0---first-c-TreysonBelt\obj\Debug\net6.0\lab-0---first-c-TreysonBelt.genruntimeconfig.cache
+C:\Users\treys\my-code-dir\lab-0---first-c-TreysonBelt\obj\Debug\net6.0\ref\lab-0---first-c-TreysonBelt.dll
